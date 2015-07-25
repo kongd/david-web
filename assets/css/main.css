@@ -200,14 +200,14 @@ img {
 /* 
     Only Needed in Multi-Coloured Variation 
                                                */
-            .social-fb:hover {
-                color: #3B5998;
+            .social-li:hover {
+                color: #0077B5;
             }
             .social-tw:hover {
                 color: #4099FF;
             }
-            .social-gp:hover {
-                color: #d34836;
+            .social-gh:hover {
+                color: #000000;
             }
             .social-em:hover {
                 color: #f39c12;
