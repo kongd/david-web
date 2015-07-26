@@ -135,7 +135,7 @@ a:after {
 
 #ww {
 	padding-top: 70px;
-	padding-bottom: 70px;
+	padding-bottom: 35px;
 }
 
 
@@ -190,7 +190,7 @@ img {
 }
             
 #social {
-color: #fff;
+color: #ffffff;
 -webkit-transform:scale(0.8);
 /* Browser Variations: */
 -moz-transform:scale(0.8);
@@ -217,7 +217,7 @@ color: #fff;
 }
 
 .body{
-    padding-bottom:50px;
+    margin-bottom:300px;
 }
 
 .btn-xlarge {
