@@ -140,11 +140,11 @@ a:after {
 #footer {
 	background-color: #2f2f2f;
 	padding-top: 20px;
-	position: fixed;
+/*	position: fixed;
 	bottom:0px;
     left:0px;
     right:0px;
-    margin-bottom:0px;
+    margin-bottom:0px;*/
 }
 
 #footer p {
