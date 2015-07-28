@@ -92,8 +92,8 @@ a:before, a:after {
 }
 
 .navbar-brand {
-	font-size: 23px;
-	letter-spacing: 2px;
+	font-size: 18px;
+	letter-spacing: 1px;
     padding-top:13px;
 }
 
@@ -136,9 +136,9 @@ img {
 /* Social icons */                
 #social {
     color: #ffffff;
-    font-size: 35px;
+    font-size: 40px;
     padding-top: 5px;
-    letter-spacing: 3px;
+    letter-spacing: 5px;
     -moz-transform:scale(0.8);
     -o-transform:scale(0.8); 
     -webkit-transition-duration: 0.5s; 
